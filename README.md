@@ -17,4 +17,4 @@ npm run build
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-Preview of the running application [click here]https://vuequoteapp.netlify.com/).
+Preview of the running application [click here](https://vuequoteapp.netlify.com/).
